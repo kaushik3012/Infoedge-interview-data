@@ -1,0 +1,1001 @@
+Education,Experience,Location,Job_Title,Age,Gender,Salary
+High School,24.0,Rural,analyst,41.0,Male,87773.92153819089
+Master,19.0,Suburban,Analyst,39.0,Female,112540.7107085288
+PhD,6.0,Urban,Analyst,31.0,Male,112310.16635412918
+Master,20.0,Suburban,director,27.0,Female,151355.4001846552
+PhD,23.0,Rural,Director,35.0,Female,148584.74022425956
+Bachelor,10.0,Rural, Analyst ,64.0,Male,82614.52773570952
+Bachelor,24.0,, Director ,33.0,Male,107745.40152735563
+Bachelor,17.0,Rural, Manager ,63.0,Female,109726.12373250833
+Master,20.0,Suburban, Engineer ,,Female,132704.6956883067
+High School,6.0,Suburban,director,53.0,Male,96820.65067916874
+PhD,25.0,,analyst,43.0,Female,128493.94226422375
+Bachelor,6.0,Suburban,Director,57.0,Male,108178.42585715864
+High School,6.0,, Engineer ,,Female,55825.41893798522
+High School,6.0,Urban,director,31.0,Female,88194.21086810359
+Bachelor,27.0,Suburban, Director ,31.0,Female,114461.89250164326
+Bachelor,14.0,Rural,analyst,53.0,Female,60796.48381028365
+PhD,,Urban,Analyst,59.0,Male,133700.28968541822
+Bachelor,5.0,Urban,director,31.0,Male,135455.142522705
+High School,7.0,Suburban,Engineer,36.0,Male,59309.16691294017
+Master,14.0,Suburban,Engineer,41.0,Male,89425.78407357418
+PhD,21.0,Urban,director,20.0,Female,162773.06834072582
+PhD,19.0,Suburban, Engineer ,20.0,Female,128119.98684288659
+Master,,Urban,ANALYST,38.0,Male,88493.08669172024
+Master,5.0,Suburban, Director ,64.0,Female,126151.18913284027
+Bachelor,14.0,Rural,Engineer,33.0,Female,75711.01265458215
+Bachelor,10.0,Rural,ANALYST,64.0,Female,72538.26314692899
+High School,19.0,Urban,DIRECTOR,50.0,Male,104308.50542110464
+Bachelor,6.0,Suburban,ANALYST,58.0,Female,82445.25410802444
+Bachelor,,Rural,analyst,64.0,Female,64993.84429006661
+Bachelor,16.0,Rural,Analyst,41.0,Female,83623.06062614743
+PhD,,Suburban,Manager,-62.0,Male,149699.38062603003
+Bachelor,6.0,Rural,Director,59.0,Female,79788.89163953859
+High School,28.0,Suburban,Director,49.0,Male,79442.17162975867
+Master,29.0,Rural,MANAGER,38.0,Female,100785.73951228836
+Master,7.0,,Analyst,29.0,Female,84060.14752533555
+High School,28.0,Suburban,analyst,50.0,Female,63078.7851284348
+High School,25.0,Suburban,MANAGER,63.0,Male,76532.49880413269
+PhD,,Rural,Director,-30.0,Female,132768.68978516912
+PhD,13.0,Suburban,Engineer,,Female,137883.23280694953
+Bachelor,20.0,Urban,ENGINEER,22.0,Male,80993.90750192235
+PhD,22.0,Urban,director,38.0,Male,151141.14135933353
+Bachelor,20.0,Urban,MANAGER,33.0,Male,127571.9724651995
+PhD,24.0,Rural,Manager,20.0,Female,134034.03889777733
+PhD,8.0,Urban,MANAGER,47.0,Male,121792.32087008176
+High School,8.0,Suburban,Manager,22.0,Male,62099.42469995405
+Bachelor,16.0,Urban,director,42.0,Male,135653.0815815896
+High School,25.0,Rural,ENGINEER,45.0,Female,90505.19090770016
+High School,22.0,Rural,Director,41.0,Female,90352.44670826293
+Bachelor,,Suburban,manager,39.0,Female,99060.79479444414
+Bachelor,28.0,Suburban,Analyst,24.0,Male,98674.1501235305
+PhD,27.0,Suburban, Engineer ,43.0,Female,139131.26421276786
+High School,,Suburban,DIRECTOR,45.0,Female,104310.66251130367
+High School,13.0,Rural,Analyst,39.0,Male,67773.78843270168
+Master,11.0,Suburban,director,62.0,Male,128387.62127717977
+High School,2.0,Rural,Analyst,57.0,Male,28454.51948327606
+PhD,1.0,Rural,Manager,26.0,Female,109217.85638273468
+High School,27.0,Rural,Analyst,50.0,Female,73341.45642376179
+Bachelor,2.0,Suburban,Director,20.0,Female,99067.90590165519
+High School,12.0,Rural, Manager ,43.0,Female,64264.407590392824
+PhD,11.0,Suburban,Director,59.0,Male,145653.7452240929
+High School,5.0,Urban,analyst,,Male,65653.57078073578
+Master,24.0,Urban,Director,24.0,Male,130455.56535939385
+PhD,11.0,Suburban,engineer,60.0,Female,151923.78360279324
+Master,,Suburban,Analyst,20.0,Female,102260.70509971575
+High School,16.0,Rural,engineer,38.0,Female,74954.33880829293
+Bachelor,20.0,Urban,DIRECTOR,28.0,Female,124551.57956054286
+High School,,Rural,ANALYST,35.0,Male,53517.736977933855
+Bachelor,6.0,Rural,DIRECTOR,55.0,Male,103463.55514316473
+Bachelor,,Suburban,Manager,45.0,Male,116320.63503971104
+PhD,18.0,,Analyst,23.0,Female,127993.99639939911
+PhD,4.0,Suburban,Analyst,26.0,Male,102205.85298004962
+High School,5.0,Rural, Manager ,39.0,Male,45610.43691412952
+High School,3.0,Urban, Analyst ,63.0,Female,53324.43472724074
+PhD,3.0,Suburban,Manager,48.0,Male,128375.44587786215
+Master,8.0,Rural,Manager,,Female,98486.95401452313
+Master,2.0,Urban,engineer,20.0,Male,102674.34249323301
+PhD,,Rural,engineer,36.0,Female,109818.71266057245
+Bachelor,,Rural, Engineer ,27.0,Male,79953.9344149002
+Master,17.0,Urban,Director,27.0,Male,129210.88896868832
+Master,-25.0,Suburban,ENGINEER,57.0,Male,122908.00596576622
+PhD,-17.0,,ANALYST,57.0,Male,127271.1026763507
+Master,9.0,Suburban,Analyst,41.0,Male,111704.1955502553
+Master,18.0,Suburban,manager,61.0,Male,108890.94742407699
+PhD,12.0,Urban,engineer,23.0,Female,113407.21171762366
+Bachelor,7.0,Rural,DIRECTOR,,Male,77428.43542258788
+PhD,2.0,Rural,DIRECTOR,44.0,Male,152232.18380153572
+Bachelor,14.0,Urban,analyst,47.0,Male,100102.44371105317
+Master,8.0,Rural,Manager,28.0,Female,102772.86230630621
+PhD,1.0,Urban,manager,23.0,Female,139892.414519466
+Master,7.0,Suburban,Analyst,,Female,93625.24850521353
+Master,,Suburban,Engineer,57.0,Male,127559.86430373305
+High School,4.0,Rural,Analyst,29.0,Female,55280.768258276126
+PhD,22.0,Rural,Analyst,45.0,Female,143128.28756612062
+PhD,16.0,Rural,Engineer,25.0,Female,133356.00943125953
+Bachelor,26.0,Suburban,ENGINEER,52.0,Female,95075.0941648975
+Master,13.0,,analyst,48.0,Female,107303.232778399
+PhD,7.0,Rural, Analyst ,28.0,Female,118894.01752356766
+Bachelor,3.0,Urban, Manager ,30.0,Male,101702.0544320908
+Bachelor,15.0,Urban,Manager,,Female,125884.50719745597
+High School,,Urban,manager,41.0,Female,97463.04986956704
+PhD,25.0,Urban,Analyst,26.0,Female,133414.83393350983
+Bachelor,23.0,Urban,manager,37.0,Male,109572.76795723593
+Bachelor,6.0,Suburban,Director,47.0,Male,82279.80304176742
+High School,,Rural,Director,29.0,Female,100938.32016236319
+PhD,9.0,Urban,analyst,56.0,Male,131578.74150893165
+Master,,Suburban,Director,60.0,Male,131962.21848289785
+PhD,,Rural,MANAGER,26.0,Male,151145.36489860987
+Master,22.0,Suburban,Engineer,52.0,Male,149781.983420559
+PhD,2.0,Rural,Analyst,20.0,Female,87351.43393488805
+Master,,Rural, Analyst ,62.0,Female,108954.7239579092
+Bachelor,20.0,Suburban,analyst,40.0,Male,88375.32983941508
+High School,23.0,Urban,Director,40.0,Male,96084.86283563914
+Bachelor,-24.0,Urban,Analyst,53.0,Male,110434.0379530135
+Master,7.0,Rural,DIRECTOR,40.0,Male,101482.46579218534
+High School,19.0,,manager,50.0,Male,100745.8896674576
+High School,9.0,Suburban, Manager ,,Male,56501.6859467476
+Bachelor,26.0,Urban,Manager,58.0,Female,113783.94075784922
+High School,-16.0,Rural,Manager,42.0,Female,74733.23614164088
+PhD,17.0,Rural,Director,26.0,Female,139773.2773680356
+PhD,,Suburban,DIRECTOR,30.0,Male,151587.13271102414
+Master,10.0,Rural,Analyst,38.0,Male,71973.69950401984
+Bachelor,23.0,, Manager ,35.0,Female,98853.70989717152
+PhD,14.0,Suburban, Analyst ,22.0,Female,138198.07274739924
+PhD,3.0,Suburban,Director,54.0,Male,124714.17509631434
+PhD,22.0,Rural,ENGINEER,45.0,Male,156174.85835806048
+High School,12.0,Rural,Director,57.0,Male,88799.46850660823
+Bachelor,28.0,Suburban,Manager,61.0,Female,111213.9145762812
+Master,8.0,Rural, Analyst ,29.0,Male,82395.54313777371
+Bachelor,29.0,Urban,manager,28.0,Female,125283.35546172268
+Master,21.0,Urban,Director,53.0,Female,120581.8950193783
+High School,16.0,Rural, Engineer ,37.0,Female,77430.51501015459
+Master,5.0,Rural, Engineer ,59.0,Male,97438.05039152066
+High School,15.0,Rural,engineer,30.0,Female,71176.52650787465
+Master,,Suburban,director,59.0,Female,134644.89855338802
+Bachelor,29.0,Suburban,ANALYST,33.0,Male,114080.49111576851
+PhD,26.0,,Manager,37.0,Female,162323.56366498876
+Bachelor,11.0,Urban,Manager,,Female,115730.30998708958
+Master,,Suburban,Engineer,40.0,Female,133614.38167804308
+Master,16.0,Urban,director,47.0,Male,127061.15776249289
+PhD,27.0,Suburban,Engineer,61.0,Male,144755.39998026975
+High School,1.0,Rural, Analyst ,46.0,Male,28310.45201924551
+PhD,29.0,Urban,engineer,28.0,Female,166328.9371066719
+PhD,20.0,Rural,Manager,31.0,Female,143768.6737966673
+High School,1.0,Rural,Analyst,58.0,Male,47084.3084998765
+Bachelor,6.0,Suburban,manager,41.0,Female,57886.505019298536
+High School,6.0,Rural,Manager,52.0,Male,59222.85251898813
+PhD,8.0,Rural,analyst,26.0,Male,123059.50069491385
+PhD,25.0,Urban,manager,48.0,Male,140051.4717261874
+Bachelor,28.0,Urban,DIRECTOR,54.0,Male,128371.49756272385
+PhD,5.0,Rural,director,60.0,Male,122617.676767972
+PhD,5.0,Urban, Analyst ,58.0,Female,104977.98523660023
+Master,8.0,Suburban,Director,62.0,Male,118708.7383693196
+Master,9.0,Urban,ENGINEER,-40.0,Female,116031.70117523619
+Bachelor,7.0,,director,34.0,Female,95405.16977758333
+PhD,23.0,Rural,Analyst,37.0,Male,143793.56375372392
+Bachelor,18.0,Suburban, Engineer ,56.0,Male,66685.58276507178
+Master,19.0,,director,40.0,Female,134916.64688627506
+Bachelor,14.0,Urban,ANALYST,44.0,Male,92737.4661661149
+PhD,6.0,Suburban,director,52.0,Female,130572.75523469185
+PhD,,Suburban,engineer,40.0,Male,121220.94846947846
+Master,25.0,Suburban,ANALYST,59.0,Female,111694.35981352361
+High School,13.0,Suburban,Analyst,51.0,Female,34854.85360307014
+Bachelor,18.0,Rural, Director ,-54.0,Female,112004.21663088069
+Bachelor,10.0,Rural,ANALYST,63.0,Male,69774.51094834259
+PhD,21.0,Urban,Director,59.0,Female,158499.29819303815
+Master,9.0,Rural,Manager,25.0,Male,110785.15938558431
+High School,4.0,Suburban,analyst,37.0,Male,70528.1053894921
+Bachelor,15.0,Rural,ANALYST,43.0,Female,75910.45452319783
+PhD,26.0,Rural, Analyst ,,Male,133605.44197269896
+High School,4.0,Rural,DIRECTOR,27.0,Female,75000.71047113433
+Master,13.0,Suburban,ANALYST,60.0,Male,63868.16291754572
+PhD,9.0,Urban, Director ,58.0,Female,154600.6811656758
+Master,24.0,Rural,ANALYST,21.0,Male,109362.66305158533
+Master,19.0,Rural,Analyst,26.0,Male,97341.62806450852
+PhD,18.0,Urban,Engineer,,Male,131904.60841567014
+Master,26.0,Urban,MANAGER,58.0,Male,129282.47674161893
+High School,6.0,Rural,Manager,46.0,Male,81194.59170667514
+Master,3.0,Rural,analyst,59.0,Female,89619.75072119039
+Master,18.0,Urban,Engineer,28.0,Male,115988.56807324404
+PhD,22.0,Suburban,engineer,48.0,Male,101267.1421414555
+Master,13.0,Urban,Director,24.0,Male,95036.81522920028
+Master,25.0,Rural,analyst,48.0,Male,90775.0040077233
+Master,28.0,Urban,director,31.0,Male,146706.30405495208
+High School,8.0,Urban, Analyst ,58.0,Male,59295.64403588337
+Master,2.0,Rural,engineer,26.0,Female,98356.23828808818
+Bachelor,19.0,Suburban,analyst,59.0,Male,65335.1731841867
+Master,12.0,Rural,Manager,32.0,Female,116347.31798724167
+PhD,14.0,Suburban,Manager,61.0,Male,133032.31891797204
+Bachelor,,Suburban, Engineer ,,Female,74409.52934042359
+High School,22.0,Rural,ENGINEER,64.0,Male,65899.84139262441
+High School,6.0,Rural,engineer,26.0,Female,66514.7033911622
+High School,7.0,Urban,DIRECTOR,21.0,Male,85421.62638283934
+Master,11.0,Rural,Analyst,49.0,Male,89080.0765076151
+Bachelor,16.0,Rural,director,36.0,Female,118324.67598625484
+PhD,26.0,,Director,24.0,Male,168709.35163531275
+Master,,Urban, Engineer ,44.0,Female,125275.48999677323
+PhD,27.0,Suburban,Director,58.0,Male,153500.5669640019
+High School,5.0,Rural,DIRECTOR,43.0,Female,78623.52783020372
+Bachelor,21.0,Rural,Manager,49.0,Male,110352.4908388061
+Bachelor,4.0,Urban,manager,23.0,Male,100757.61777617008
+PhD,9.0,Suburban,ENGINEER,25.0,Female,118468.55018791679
+PhD,29.0,Urban,DIRECTOR,63.0,Male,158621.6293591713
+Master,13.0,Rural,director,38.0,Female,136584.9342029032
+High School,27.0,Suburban,engineer,57.0,Male,70744.34361187498
+PhD,14.0,Urban,director,48.0,Male,156846.642357453
+High School,18.0,Rural, Director ,24.0,Female,68341.89678759404
+PhD,27.0,Suburban,analyst,,Female,120171.11895261444
+High School,25.0,Suburban,Director,61.0,Female,102352.00912561917
+High School,13.0,Urban, Manager ,36.0,Male,80382.34994690862
+PhD,6.0,Suburban,ANALYST,25.0,Female,113132.12086227536
+Master,4.0,Urban,ENGINEER,57.0,Female,102896.0508259211
+Bachelor,8.0,Suburban,Director,50.0,Male,101713.98467418402
+PhD,6.0,Rural,Manager,25.0,Male,135989.05283692747
+PhD,1.0,Suburban, Engineer ,44.0,Male,109967.01553504642
+Master,,Suburban,Director,27.0,Male,129877.9644818894
+PhD,16.0,Suburban,Director,48.0,Male,147244.87295391326
+Master,2.0,Urban, Engineer ,64.0,Male,96962.55337911751
+PhD,24.0,, Director ,24.0,Male,166553.44544029128
+Bachelor,28.0,Urban,DIRECTOR,,Female,122938.6649561906
+Bachelor,21.0,Rural, Analyst ,36.0,Female,85509.83836437365
+Master,3.0,Urban, Director ,25.0,Female,130751.51183538442
+High School,-6.0,, Director ,33.0,Female,88138.79484438279
+High School,-26.0,Suburban,Director,,Male,109905.60914931048
+PhD,19.0,Urban, Director ,36.0,Female,148828.18372673434
+Master,25.0,Rural,Manager,-0.0,Female,123391.47517671125
+Bachelor,10.0,Suburban,ANALYST,54.0,Female,73428.21374807722
+Bachelor,17.0,,Director,32.0,Male,117997.08088376826
+Master,27.0,Rural,manager,,Female,129571.12367046437
+Bachelor,,Suburban,Manager,29.0,Male,92845.73940453064
+PhD,8.0,Urban,Analyst,35.0,Male,113795.11123775355
+High School,17.0,Suburban,MANAGER,60.0,Female,87119.59374174796
+High School,9.0,Suburban,Analyst,50.0,Male,70679.03145639009
+High School,,Urban, Director ,42.0,Male,103651.95467835382
+PhD,,Suburban,Manager,63.0,Female,149637.49312013946
+Master,4.0,Rural, Manager ,61.0,Male,115803.91757924184
+Master,11.0,Rural,ANALYST,,Female,120904.22129306388
+High School,28.0,Rural,Engineer,63.0,Male,60338.236070760584
+Bachelor,5.0,Suburban,Engineer,52.0,Female,80707.1057015991
+Master,24.0,Urban,analyst,27.0,Female,130149.78856768715
+Bachelor,13.0,Urban,Analyst,61.0,Male,88733.26736064968
+Bachelor,23.0,Rural,Manager,,Female,113120.22313410253
+PhD,21.0,Suburban, Manager ,60.0,Male,152628.10009364417
+Bachelor,24.0,,Analyst,52.0,Male,109209.74844940579
+Bachelor,4.0,Urban,DIRECTOR,33.0,Female,110570.35511185783
+PhD,22.0,Urban,ANALYST,25.0,Female,153598.22610685037
+Master,8.0,Suburban, Analyst ,59.0,Male,94572.00725155123
+High School,,Urban, Analyst ,51.0,Female,82628.17519890626
+High School,,Urban,Engineer,36.0,Female,56363.03866101383
+Bachelor,29.0,Rural,engineer,20.0,Female,117265.59650937126
+High School,29.0,Rural,ENGINEER,48.0,Male,66047.00377704846
+PhD,1.0,Suburban,DIRECTOR,60.0,Male,133928.36550121199
+Bachelor,17.0,Rural,manager,54.0,Female,83188.42569188129
+High School,29.0,Suburban, Manager ,51.0,Male,83508.34631933985
+Bachelor,20.0,Rural,DIRECTOR,55.0,Female,103702.86621316207
+High School,8.0,Rural,director,22.0,Male,70354.99517695577
+High School,4.0,Suburban,director,44.0,Male,77811.01508782433
+High School,11.0,Urban, Manager ,63.0,Male,59835.43798339211
+Master,,Rural,Manager,23.0,Female,117650.88440024399
+PhD,3.0,Urban,ENGINEER,50.0,Female,116684.50197221439
+PhD,28.0,Rural,Engineer,42.0,Male,142041.52921488005
+PhD,5.0,,Manager,41.0,Male,152828.80802006985
+Master,22.0,Suburban,manager,24.0,Male,118769.72594968409
+PhD,6.0,Rural,manager,58.0,Male,121224.59343545527
+High School,16.0,Suburban,DIRECTOR,22.0,Male,85005.56361554399
+High School,22.0,Suburban,manager,60.0,Female,64690.32097244203
+High School,28.0,Rural,Manager,63.0,Female,69929.11387830772
+Master,8.0,Rural,Analyst,62.0,Male,84342.01562552774
+High School,15.0,Rural,Manager,54.0,Male,86907.8105660501
+Bachelor,13.0,Suburban,engineer,41.0,Male,76157.41248731485
+PhD,22.0,Suburban,ENGINEER,27.0,Male,135016.59052418545
+High School,28.0,Rural,Director,,Female,93710.30172648373
+PhD,23.0,Rural,Manager,41.0,Male,143916.49770300929
+Master,2.0,Suburban,Engineer,52.0,Male,90383.26986143747
+PhD,21.0,Rural,DIRECTOR,61.0,Male,152875.11258764824
+Bachelor,15.0,Urban,Analyst,54.0,Female,87101.87149960634
+Master,17.0,Rural,engineer,,Female,132611.00867151286
+PhD,28.0,Urban,Engineer,23.0,Female,154725.7783222056
+Bachelor,26.0,Urban,Director,53.0,Male,116905.64861789088
+Master,11.0,Urban,Analyst,40.0,Male,93376.37358062924
+Bachelor,4.0,Suburban, Engineer ,55.0,Male,89108.13403706797
+PhD,25.0,Suburban,ENGINEER,57.0,Male,153369.36251832513
+PhD,,Urban,Analyst,58.0,Female,136572.17209538457
+PhD,1.0,Rural,ANALYST,40.0,Male,98555.89077474868
+PhD,,Suburban, Analyst ,47.0,Female,94047.94590248715
+High School,25.0,Urban,Manager,46.0,Female,76135.46909386019
+PhD,9.0,Suburban,Analyst,,Male,134274.54670255858
+Master,20.0,Suburban,Engineer,60.0,Male,107372.61861058176
+Bachelor,3.0,Urban,Director,35.0,Male,95568.30010810756
+High School,29.0,Urban,Manager,33.0,Female,84282.47892900706
+High School,13.0,Urban,Analyst,20.0,Male,71842.59213297765
+High School,3.0,Rural,Analyst,53.0,Male,55865.09531936877
+PhD,3.0,Rural, Engineer ,27.0,Male,101760.29143174968
+PhD,,Urban,Engineer,53.0,Female,129074.46045616915
+Bachelor,16.0,Rural,Manager,47.0,Female,95095.13967081967
+PhD,4.0,Rural,Director,,Female,130307.2431369026
+Master,20.0,Suburban,director,33.0,Male,143012.85504579765
+Master,24.0,Rural,Analyst,48.0,Male,115049.35334690158
+Master,6.0,Rural, Analyst ,41.0,Male,83198.12552580616
+PhD,29.0,Suburban,director,21.0,Female,155136.36430148562
+Master,16.0,Urban, Director ,24.0,Female,140077.62754196522
+Master,16.0,Urban, Manager ,23.0,Female,115313.46231985316
+Bachelor,,,engineer,24.0,Female,80976.33322405034
+Master,19.0,Suburban,Analyst,-62.0,Male,121457.31550360878
+High School,1.0,Suburban,ENGINEER,39.0,Male,47011.17218841564
+Master,18.0,Suburban,DIRECTOR,59.0,Female,137121.86490294253
+High School,23.0,Urban,ANALYST,41.0,Female,94261.2614683275
+Bachelor,12.0,Rural,Manager,34.0,Male,96961.17710034612
+Master,23.0,Rural,Analyst,35.0,Male,117098.07362397798
+Master,28.0,Suburban,Analyst,54.0,Male,125483.21034936505
+High School,22.0,Urban,manager,59.0,Male,87795.1941337618
+High School,8.0,Rural,DIRECTOR,49.0,Female,74056.87555384115
+Master,18.0,Suburban,DIRECTOR,48.0,Female,138087.28811884052
+Bachelor,26.0,Urban,ANALYST,,Male,108372.68169397168
+High School,,Suburban,Engineer,63.0,Male,65854.40112584164
+PhD,24.0,Suburban, Director ,23.0,Female,149952.35420299924
+Bachelor,-21.0,Suburban,engineer,60.0,Female,80820.27781577456
+Master,6.0,Urban,analyst,-56.0,Male,114829.47596896239
+Master,11.0,Suburban,Manager,,Male,119144.25910323224
+PhD,5.0,Urban,manager,56.0,Female,115021.08912088427
+Bachelor,12.0,Suburban, Manager ,20.0,Male,103574.2834001125
+PhD,17.0,Suburban,analyst,46.0,Male,135881.9623523173
+Bachelor,7.0,Rural, Director ,64.0,Female,90298.04428729175
+PhD,5.0,Urban,Engineer,20.0,Female,134732.1809034307
+Bachelor,24.0,Rural,Analyst,48.0,Female,106273.40969035904
+Bachelor,28.0,Rural,MANAGER,61.0,Female,116350.3088369632
+High School,12.0,Urban,manager,62.0,Female,67039.52948132748
+Master,19.0,Suburban,manager,39.0,Male,111638.4464883358
+Master,27.0,Urban,director,48.0,Female,137860.69400105785
+PhD,7.0,Urban, Analyst ,25.0,Male,104259.34729445877
+Master,19.0,Rural,MANAGER,42.0,Female,107281.63690939196
+PhD,5.0,,DIRECTOR,45.0,Female,125504.2217710034
+High School,29.0,Suburban, Manager ,51.0,Female,101469.85674499918
+Master,3.0,Rural,Engineer,62.0,Female,65576.43081560501
+High School,3.0,Rural,director,44.0,Female,70911.1300976713
+High School,20.0,Urban,Engineer,55.0,Female,69998.90752964206
+Bachelor,,Suburban,director,51.0,Female,107646.83219133106
+Bachelor,29.0,Urban,Manager,52.0,Male,129957.20315900656
+PhD,14.0,, Director ,37.0,Female,142212.2944686364
+High School,29.0,Suburban,Engineer,53.0,Female,86009.53821023717
+PhD,22.0,Rural,Manager,64.0,Male,169090.58094938018
+Bachelor,4.0,Rural,Manager,44.0,Male,108091.75064879886
+High School,5.0,Rural,manager,23.0,Female,62074.75775079227
+Bachelor,14.0,Suburban, Engineer ,43.0,Female,90867.748964341
+PhD,6.0,,ANALYST,54.0,Female,106680.29804198944
+High School,,Urban,MANAGER,,Female,89710.34228768467
+Bachelor,15.0,Rural,Director,33.0,Male,100895.2403691848
+High School,-5.0,Urban,Director,-22.0,Male,91855.33848441514
+High School,19.0,Rural,ANALYST,31.0,Female,77218.62448358767
+High School,9.0,Suburban,DIRECTOR,62.0,Male,90964.92101159698
+Bachelor,19.0,Rural, Engineer ,56.0,Male,69476.4241819272
+Master,12.0,Urban,Director,26.0,Male,135177.5405671916
+High School,21.0,Urban, Analyst ,44.0,Female,76733.01347442761
+PhD,15.0,Urban,manager,27.0,Female,127897.32034613789
+Master,,Suburban, Director ,26.0,Female,112763.09802605922
+PhD,18.0,Rural, Analyst ,56.0,Female,142835.91118389828
+Master,12.0,Rural,Manager,48.0,Female,113666.19092446541
+High School,1.0,Suburban,Analyst,54.0,Male,64663.82325246569
+PhD,18.0,Suburban,Director,24.0,Male,140000.12908612913
+Master,,Suburban, Analyst ,48.0,Female,95466.50603361269
+PhD,-16.0,Suburban,Engineer,27.0,Female,132524.54981042971
+Bachelor,-18.0,Urban,Director,54.0,Female,123522.81199043705
+High School,3.0,Suburban,ANALYST,42.0,Female,27673.77702552682
+PhD,25.0,Suburban,Manager,57.0,Male,170654.5434102451
+Master,13.0,Rural,Manager,60.0,Female,113505.29052493398
+Master,24.0,Urban,Manager,29.0,Male,152736.48457109058
+Bachelor,15.0,Rural,Manager,,Female,88684.42109269847
+High School,5.0,Urban,Analyst,39.0,Male,73824.57637206603
+PhD,25.0,Urban,analyst,24.0,Female,128590.68480930832
+PhD,,Rural,Director,22.0,Male,124176.32677894091
+Bachelor,25.0,Suburban,ENGINEER,40.0,Female,113641.4713684121
+High School,18.0,Rural,engineer,28.0,Female,56176.52370654881
+High School,1.0,,ANALYST,56.0,Male,64733.612977330056
+High School,4.0,Suburban,Director,30.0,Male,80010.40348205321
+High School,11.0,Rural, Manager ,28.0,Female,74112.96466480361
+Bachelor,22.0,Urban,Manager,62.0,Male,113028.17041899583
+PhD,26.0,Urban,Manager,45.0,Female,151294.6557502471
+PhD,28.0,Suburban,manager,41.0,Female,160864.8158666658
+Master,17.0,Rural, Manager ,62.0,Female,136068.61539018992
+Master,-17.0,Suburban, Analyst ,44.0,Male,114916.63986685172
+Bachelor,6.0,Urban,analyst,50.0,Male,63022.657625661304
+High School,18.0,Rural,Analyst,64.0,Male,80347.72916834764
+Bachelor,20.0,Rural,analyst,64.0,Male,86002.51931073374
+Master,2.0,Rural,DIRECTOR,26.0,Female,109101.23832284316
+Bachelor,1.0,,Manager,60.0,Female,86541.50998762244
+High School,-21.0,Suburban,Analyst,36.0,Female,81977.09173357635
+Master,11.0,Suburban,director,62.0,Male,112151.92525029046
+Master,29.0,Rural,analyst,21.0,Male,111059.7851298036
+Master,29.0,Suburban,Director,34.0,Male,138597.61727238557
+Bachelor,,Suburban,Engineer,36.0,Male,68196.8745144063
+Bachelor,5.0,Suburban, Analyst ,37.0,Male,58738.320047221
+High School,,Urban,ANALYST,60.0,Male,77615.90211710327
+High School,,Suburban,engineer,26.0,Male,58593.05090716026
+Master,21.0,Suburban,Engineer,64.0,Female,110650.06631216806
+Master,22.0,Urban,MANAGER,23.0,Female,130048.76885486912
+Master,10.0,Suburban,DIRECTOR,29.0,Female,115873.63964523237
+Master,19.0,Suburban,ENGINEER,51.0,Male,126451.42566774857
+High School,17.0,Rural,Manager,39.0,Female,73653.61098501431
+Master,,Urban,MANAGER,47.0,Female,132464.2498307638
+Master,12.0,Rural,Engineer,60.0,Male,88902.73556391182
+High School,19.0,Urban,Manager,62.0,Male,96428.05436138164
+Bachelor,16.0,Rural,Analyst,-46.0,Male,94571.76679685542
+High School,17.0,Rural,MANAGER,37.0,Female,66916.96252652652
+High School,2.0,Rural,director,32.0,Male,96031.10432286633
+High School,1.0,Rural,engineer,44.0,Male,78377.79050864831
+High School,-5.0,Rural,manager,45.0,Male,69969.09871609484
+PhD,4.0,Rural,MANAGER,43.0,Male,116402.9093004724
+Master,23.0,Suburban,Engineer,46.0,Male,105785.04832818732
+Master,-8.0,Suburban,Director,54.0,Female,120319.48321983231
+PhD,3.0,Rural, Engineer ,46.0,Male,111615.31761206432
+Master,11.0,Suburban,ANALYST,44.0,Male,82243.43291766713
+Master,11.0,Rural,DIRECTOR,22.0,Female,109475.99303648701
+High School,,Suburban, Manager ,57.0,Female,85921.55494190587
+High School,24.0,,Director,27.0,Female,110513.53117333062
+Bachelor,5.0,Urban, Manager ,63.0,Female,91525.70565138472
+High School,17.0,Urban,MANAGER,32.0,Male,81665.74590844585
+Bachelor,10.0,Suburban,Manager,27.0,Male,98940.04412996524
+PhD,13.0,Urban,ANALYST,,Male,162495.3115267476
+High School,11.0,Rural,ANALYST,44.0,Female,61241.95236373082
+PhD,,Suburban,ANALYST,36.0,Male,122090.47948962887
+Bachelor,6.0,Urban, Manager ,48.0,Male,92126.52663602901
+High School,13.0,Rural,Director,30.0,Male,70440.87457467294
+High School,-9.0,Rural,manager,42.0,Female,94683.4546533325
+Master,8.0,Urban,Manager,62.0,Male,121011.99343471284
+Bachelor,16.0,Urban,Analyst,31.0,Male,94905.61178336313
+Master,27.0,Urban, Director ,60.0,Male,131169.2430677294
+Bachelor,15.0,Urban,MANAGER,21.0,Male,104931.05352271585
+Master,26.0,Urban, Engineer ,41.0,Female,118089.48916177411
+Master,5.0,Urban, Manager ,37.0,Male,105985.70023381658
+PhD,18.0,Urban,Engineer,62.0,Male,120786.21363352271
+Master,24.0,Urban,Engineer,55.0,Female,127800.59221693498
+Master,,Urban,Manager,61.0,Female,124090.08107183636
+PhD,1.0,Rural,Analyst,42.0,Female,118279.32811045084
+PhD,16.0,Urban,Analyst,62.0,Female,131830.19477361673
+PhD,19.0,,DIRECTOR,27.0,Female,151926.4514489345
+PhD,19.0,Suburban, Analyst ,47.0,Male,134125.83639198673
+Master,-1.0,Rural, Manager ,59.0,Male,89686.88990994103
+PhD,25.0,Rural, Analyst ,-25.0,Male,132492.19208007006
+High School,17.0,Suburban, Engineer ,46.0,Male,70638.75893630237
+Bachelor,9.0,Rural,Manager,56.0,Female,92753.43003507858
+High School,13.0,Rural,engineer,27.0,Male,50330.94416980451
+High School,3.0,Rural, Manager ,23.0,Female,49024.72746488334
+Bachelor,20.0,Rural,Engineer,63.0,Female,71927.42652380923
+High School,19.0,Suburban,Director,24.0,Female,87046.67235093299
+Master,11.0,Urban,Analyst,21.0,Male,101956.63343708064
+PhD,24.0,Urban,Manager,40.0,Female,136187.59055954937
+PhD,22.0,Urban,engineer,,Male,148035.46138469907
+High School,10.0,Urban,Director,20.0,Female,106720.12882160545
+Master,23.0,Suburban, Manager ,21.0,Male,158343.09038496763
+PhD,1.0,Rural, Engineer ,24.0,Male,99539.53054820756
+High School,17.0,Urban,Director,,Male,124235.39464531688
+Bachelor,2.0,, Manager ,29.0,Female,60922.23429002575
+Bachelor,,Suburban,engineer,36.0,Male,97786.66115127431
+Bachelor,,Suburban,Engineer,55.0,Female,88009.7990831782
+High School,15.0,Suburban,analyst,38.0,Female,65740.15706667799
+High School,20.0,Urban, Manager ,58.0,Male,84485.7792316299
+PhD,27.0,Suburban,MANAGER,46.0,Female,145861.40963026334
+Master,,Suburban,Director,45.0,Female,137713.22573401884
+Bachelor,17.0,Rural, Director ,42.0,Male,105274.21689930337
+Bachelor,15.0,Suburban,Director,60.0,Female,114771.15703673783
+High School,26.0,Rural, Director ,63.0,Male,105742.46686227123
+Master,1.0,Suburban,manager,21.0,Male,107696.5761653572
+High School,18.0,Urban, Analyst ,-35.0,Female,69678.78561028178
+High School,4.0,,director,23.0,Male,87841.3452922817
+High School,18.0,Urban,Manager,33.0,Female,99162.18826884073
+Master,1.0,Suburban,Director,45.0,Female,128431.04423538585
+PhD,24.0,Rural,Manager,42.0,Female,147378.31724726447
+PhD,24.0,Suburban,director,63.0,Male,157720.81224126345
+Bachelor,,Urban,Analyst,23.0,Male,76134.80953287757
+PhD,5.0,Rural,Manager,28.0,Female,119515.34937753664
+Bachelor,8.0,Urban,Manager,48.0,Female,91351.10435468017
+High School,19.0,Rural,Engineer,25.0,Male,90622.49816357832
+PhD,16.0,Rural, Director ,28.0,Female,146246.08865922326
+PhD,22.0,Suburban, Director ,50.0,Male,142440.88916883315
+High School,29.0,Suburban, Director ,31.0,Female,95873.15750147105
+High School,,Suburban,director,45.0,Female,101231.71529196188
+Master,10.0,,ANALYST,-44.0,Female,81153.32624508327
+High School,2.0,Rural, Manager ,64.0,Male,71782.2938625484
+Bachelor,14.0,Suburban, Manager ,34.0,Male,113783.32005968531
+Bachelor,10.0,Rural,analyst,29.0,Male,72085.97458427923
+Bachelor,-13.0,Suburban,Engineer,37.0,Female,107204.59819810788
+Master,18.0,Rural,Analyst,-53.0,Male,111165.26747919292
+Master,6.0,Suburban,Director,40.0,Male,117098.8661355702
+High School,2.0,Urban,MANAGER,49.0,Female,66262.7084795771
+PhD,22.0,Suburban,DIRECTOR,58.0,Male,154111.7281208143
+High School,8.0,Urban,MANAGER,63.0,Male,74030.42096986287
+High School,14.0,Suburban,Analyst,55.0,Male,59961.0346590813
+Master,16.0,Suburban,Director,29.0,Male,123891.00661219646
+High School,21.0,Suburban,Engineer,63.0,Female,81394.49927625216
+Bachelor,4.0,Suburban, Manager ,20.0,Male,96952.72089100233
+High School,21.0,Rural,Manager,58.0,Male,65606.65439260151
+PhD,7.0,Rural,Director,22.0,Female,144927.54636898983
+PhD,7.0,Urban,Director,60.0,Male,132841.23008718577
+High School,23.0,Urban, Engineer ,61.0,Male,101034.5862307045
+PhD,17.0,Urban,Manager,51.0,Male,138163.15908931618
+Master,7.0,Suburban, Director ,44.0,Female,119801.51352780421
+Bachelor,1.0,Urban,engineer,39.0,Female,79902.3498743312
+Bachelor,24.0,Urban,Director,27.0,Male,130993.416330099
+PhD,8.0,Suburban,Director,26.0,Male,139658.4999826792
+High School,2.0,,ENGINEER,54.0,Female,51341.02635847127
+Bachelor,20.0,, Engineer ,25.0,Female,91694.59822866053
+High School,4.0,Suburban,Analyst,32.0,Male,55997.71767640343
+Master,4.0,Suburban,analyst,24.0,Male,80684.91510880727
+Bachelor,27.0,Rural,Analyst,58.0,Female,94476.78945118138
+Bachelor,,Rural,Engineer,40.0,Female,69022.97875782107
+Bachelor,,Rural, Engineer ,27.0,Female,91870.54672895807
+Bachelor,16.0,Suburban,ANALYST,39.0,Female,86387.75281186156
+PhD,7.0,Suburban,Engineer,36.0,Female,99909.82906481557
+High School,4.0,Rural, Director ,62.0,Male,80100.85350081428
+PhD,21.0,Rural,DIRECTOR,,Male,154471.71324209665
+PhD,25.0,Rural,analyst,41.0,Female,136162.60670288868
+High School,22.0,Rural,MANAGER,41.0,Male,90191.99292792135
+Bachelor,12.0,Rural,MANAGER,,Male,85852.44482009727
+Master,6.0,Urban,Manager,,Male,110132.27996965314
+PhD,17.0,Urban, Engineer ,37.0,Female,131578.27453883176
+Master,,Urban,ANALYST,64.0,Female,118468.68920300962
+PhD,8.0,Urban,Analyst,25.0,Female,121827.18399727451
+PhD,24.0,Suburban,Analyst,37.0,Male,119486.08637379941
+Bachelor,9.0,Urban,engineer,27.0,Male,90765.06410084221
+Bachelor,13.0,Urban, Manager ,32.0,Male,113024.56048833317
+PhD,3.0,Rural, Director ,27.0,Male,132325.1256035841
+PhD,,Rural,Director,59.0,Male,130257.26003791949
+PhD,8.0,Suburban, Engineer ,34.0,Male,115506.55684744073
+PhD,25.0,Urban,Director,39.0,Male,165586.59224458085
+Master,18.0,Rural,ANALYST,44.0,Male,104128.92456729324
+High School,1.0,Rural,Director,-58.0,Female,78285.52887979793
+PhD,-11.0,Rural,Analyst,,Male,119696.50470630267
+Master,29.0,Suburban,Engineer,54.0,Male,118876.18202342716
+Master,29.0,Suburban,ANALYST,64.0,Female,109165.36205856228
+Bachelor,,Suburban,MANAGER,23.0,Female,89663.11181376225
+Master,27.0,Rural,Manager,59.0,Male,124575.64152695425
+Bachelor,20.0,Rural,ENGINEER,60.0,Female,95724.61342489306
+High School,29.0,Urban, Engineer ,52.0,Female,93087.79753868336
+High School,1.0,Rural,Engineer,28.0,Female,31569.216709378954
+PhD,14.0,Rural,manager,34.0,Male,119475.33765828711
+Master,17.0,,manager,31.0,Male,108161.4144489593
+Master,,Urban,Engineer,35.0,Female,107906.92613584896
+PhD,24.0,Urban,manager,62.0,Female,160070.19487187674
+Master,6.0,,Analyst,63.0,Male,78231.29372854035
+High School,2.0,Rural,DIRECTOR,62.0,Female,95253.03155284509
+PhD,26.0,Suburban, Manager ,40.0,Male,143392.4171579765
+Bachelor,26.0,Rural,Engineer,,Male,95881.3995354588
+Bachelor,16.0,Rural,ENGINEER,42.0,Male,72593.0230909163
+Bachelor,6.0,Rural,analyst,54.0,Male,52529.70069749081
+High School,14.0,Rural,Director,21.0,Male,83205.84549749689
+High School,16.0,Urban,Engineer,39.0,Male,84818.57939626947
+High School,21.0,Urban, Manager ,62.0,Female,86312.31233304052
+High School,9.0,Rural,engineer,36.0,Female,81543.67380893767
+Master,10.0,Rural, Engineer ,49.0,Male,113839.83957216477
+Bachelor,27.0,Urban,DIRECTOR,43.0,Male,123715.82615748205
+Bachelor,3.0,Rural,Analyst,45.0,Female,61423.631236408364
+High School,22.0,Rural,ANALYST,64.0,Female,63847.35584135351
+Bachelor,25.0,Suburban, Manager ,20.0,Female,94297.16156183975
+PhD,23.0,,Manager,23.0,Male,161437.50635369113
+High School,23.0,Suburban,Director,39.0,Male,84590.87968116897
+Master,20.0,Suburban,Director,58.0,Female,131092.3859957329
+Bachelor,17.0,Rural,MANAGER,45.0,Female,108950.03112568948
+PhD,11.0,,Manager,33.0,Female,118160.79585457816
+High School,25.0,Suburban,Manager,27.0,Female,99025.36150153364
+PhD,29.0,, Director ,,Male,180312.27556543343
+PhD,6.0,Suburban,Director,37.0,Female,146585.4053648858
+High School,13.0,Urban,Engineer,22.0,Female,61963.211090214056
+High School,9.0,Suburban, Manager ,61.0,Male,51680.249513445015
+Master,18.0,Urban,Analyst,49.0,Female,111916.74465268987
+Master,14.0,Suburban,ANALYST,47.0,Female,94717.70595496509
+High School,,Suburban,Engineer,50.0,Female,80476.64729774528
+Bachelor,7.0,Rural,Engineer,22.0,Male,63395.06836930399
+PhD,16.0,Rural,ANALYST,29.0,Female,115999.60219389656
+Master,3.0,Suburban,Director,55.0,Male,135245.5476060938
+PhD,18.0,Urban,Director,42.0,Female,995242.8624539693
+PhD,27.0,Urban,Manager,41.0,Male,164657.34463206813
+PhD,15.0,Urban,analyst,49.0,Female,123012.02229686473
+High School,13.0,Suburban, Engineer ,20.0,Female,49307.14455881521
+Master,19.0,Urban,Engineer,46.0,Male,115558.05182531741
+Master,3.0,Rural,Manager,32.0,Female,96813.75618728696
+Bachelor,-16.0,Rural,Manager,28.0,Female,90513.32339416214
+PhD,2.0,Urban,ENGINEER,45.0,Male,130974.37398691183
+PhD,12.0,Urban,Manager,59.0,Male,143142.35735388545
+High School,28.0,Urban,Engineer,58.0,Male,71006.8251223166
+Bachelor,,Rural, Engineer ,47.0,Male,75445.98148789379
+Master,7.0,Urban,director,53.0,Female,137967.72615365294
+Bachelor,7.0,Rural,Manager,25.0,Female,87975.34022842623
+Bachelor,,Suburban,Engineer,46.0,Female,84451.95476905312
+Master,9.0,Suburban,engineer,24.0,Female,101066.25857682369
+High School,26.0,Rural,manager,33.0,Female,106457.76806967599
+Bachelor,2.0,Rural,Director,-58.0,Female,77879.02010601765
+Bachelor,22.0,Rural, Director ,58.0,Male,119866.88365514304
+Bachelor,1.0,Urban,Engineer,32.0,Male,80657.85839100902
+High School,19.0,Rural,Director,31.0,Male,77966.87865540186
+Bachelor,,Suburban,Engineer,45.0,Male,78210.56283409994
+Master,17.0,Rural, Analyst ,34.0,Male,112964.31268932394
+Bachelor,20.0,Suburban,Manager,49.0,Female,102172.96652773787
+High School,16.0,Suburban, Director ,,Female,96707.95228541613
+Master,5.0,Urban,ANALYST,42.0,Male,98515.67837242415
+Master,27.0,Suburban,Engineer,22.0,Female,112407.9186147285
+High School,-0.0,Suburban, Manager ,21.0,Female,90783.9776566138
+PhD,18.0,Urban,ANALYST,25.0,Male,127562.26234766643
+Bachelor,6.0,Suburban,engineer,36.0,Female,93217.43922863425
+Bachelor,-20.0,Suburban, Director ,59.0,Female,129655.42602105511
+Bachelor,15.0,Urban,Analyst,50.0,Female,74429.03712899468
+Bachelor,,Urban, Manager ,56.0,Male,90792.87976102825
+High School,22.0,Urban,engineer,57.0,Female,81234.2741010181
+Bachelor,21.0,, Engineer ,25.0,Male,122573.20491300485
+High School,17.0,Rural,Analyst,55.0,Female,59912.41361600968
+PhD,,, Manager ,-0.0,Female,106162.94180699534
+Bachelor,17.0,Rural,ENGINEER,,Male,83637.98602345338
+Bachelor,10.0,Urban,Engineer,,Female,85059.03348847626
+Master,25.0,Rural,Director,50.0,Female,120087.42285008883
+Bachelor,25.0,Urban,ANALYST,30.0,Female,100918.40498425596
+Bachelor,18.0,Urban, Director ,40.0,Male,132218.60307627034
+PhD,2.0,Rural,DIRECTOR,38.0,Male,116578.91742811303
+Bachelor,,Suburban,DIRECTOR,49.0,Female,96273.34204727078
+Bachelor,24.0,Urban, Manager ,27.0,Female,114769.36709516618
+PhD,2.0,Suburban,Engineer,24.0,Female,107801.52549094966
+Bachelor,12.0,Rural,Director,53.0,Male,90506.61591310112
+High School,10.0,Rural, Director ,43.0,Female,58546.00910461297
+High School,25.0,Rural,Director,44.0,Female,84039.02665592
+PhD,7.0,Rural,Analyst,33.0,Male,118753.1294696819
+Bachelor,1.0,Suburban,Manager,41.0,Female,87568.66752485791
+Master,28.0,Urban,DIRECTOR,43.0,Female,153924.6654196522
+High School,25.0,Urban, Director ,41.0,Female,83200.59100164946
+Bachelor,12.0,Rural,Analyst,50.0,Male,71242.52758865306
+High School,18.0,Urban,ANALYST,-42.0,Male,62493.752846216885
+PhD,8.0,Suburban,Analyst,35.0,Female,115442.97406498448
+Bachelor,,Urban,analyst,60.0,Male,87762.74017977434
+Master,19.0,Rural, Analyst ,60.0,Female,97712.43813791039
+Master,,Suburban,director,21.0,Male,135799.47780124514
+PhD,3.0,Urban,ANALYST,34.0,Male,126904.18718144779
+High School,,Suburban, Director ,43.0,Female,72195.16485453033
+Master,23.0,Urban, Director ,31.0,Male,158808.99862390145
+Master,,Urban,Analyst,61.0,Female,97986.14072649664
+Master,3.0,Suburban,Analyst,50.0,Male,122086.95288788293
+Master,13.0,Urban, Engineer ,-25.0,Male,117355.81872920103
+PhD,20.0,Urban,DIRECTOR,49.0,Male,149410.87365479342
+Master,24.0,, Director ,47.0,Male,141436.83819417795
+Master,9.0,Suburban,MANAGER,55.0,Male,107050.22138630263
+Master,9.0,Suburban,ANALYST,,Female,107673.93385453199
+Bachelor,4.0,Rural,DIRECTOR,24.0,Female,91634.56729855784
+PhD,6.0,Rural,Analyst,55.0,Male,97160.4085091573
+High School,10.0,Urban,Engineer,,Female,78206.88255284366
+Master,22.0,Rural, Manager ,58.0,Male,120981.97245365
+Master,21.0,Urban,Analyst,45.0,Female,131068.73029010354
+Master,4.0,Suburban,DIRECTOR,28.0,Male,141671.6816116641
+Bachelor,28.0,Urban,engineer,59.0,Male,100857.23869740772
+Bachelor,14.0,Suburban,Manager,,Male,89431.02715263273
+Master,-2.0,Suburban,Manager,39.0,Female,96725.80897403353
+Bachelor,7.0,,engineer,49.0,Male,83226.88571344852
+Bachelor,12.0,Rural,DIRECTOR,52.0,Male,96828.97166569333
+High School,29.0,Rural,ENGINEER,58.0,Female,87518.6064587304
+PhD,28.0,Urban,MANAGER,37.0,Female,163142.89189690934
+High School,25.0,Rural,Director,46.0,Male,105893.1695866831
+Master,1.0,Urban,DIRECTOR,44.0,Female,126821.3698112796
+PhD,1.0,Urban, Director ,43.0,Male,136643.94092119348
+High School,27.0,Rural,ENGINEER,60.0,Female,75477.60382784937
+Bachelor,29.0,Urban,Director,24.0,Male,113492.91308046937
+High School,24.0,Urban,manager,49.0,Male,101431.86324914685
+Bachelor,22.0,,Director,45.0,Female,79159.97800682775
+Bachelor,5.0,Rural, Manager ,26.0,Female,90034.63822621675
+Master,11.0,Rural,Analyst,40.0,Female,105985.85362665802
+Master,27.0,Suburban,Analyst,,Female,114173.93341661194
+Master,12.0,Suburban, Analyst ,41.0,Male,88247.8992843006
+PhD,25.0,Suburban,manager,40.0,Male,150314.20606551465
+PhD,2.0,Suburban,Engineer,25.0,Male,112962.29402644065
+High School,17.0,Rural,ENGINEER,54.0,Female,75588.74714032147
+PhD,3.0,Rural,Director,-33.0,Female,116087.54637516772
+Master,24.0,,Director,-29.0,Male,131569.50236065607
+PhD,28.0,Rural,Director,29.0,Female,149312.8287296254
+Master,8.0,Suburban,engineer,52.0,Male,122453.36297511964
+Bachelor,27.0,Rural,manager,,Female,92034.92336282907
+Bachelor,12.0,Suburban,engineer,31.0,Male,80862.50252856826
+High School,15.0,Rural, Manager ,,Female,77472.16164104131
+High School,15.0,Urban,Director,23.0,Male,67874.14374505094
+PhD,,Urban,analyst,32.0,Male,143434.62964362686
+Master,17.0,Suburban,engineer,49.0,Male,107803.45518505858
+Master,11.0,Rural,Engineer,29.0,Female,92646.83221272066
+Master,29.0,Urban,ENGINEER,27.0,Male,153015.23621649592
+Bachelor,16.0,Urban,Engineer,35.0,Male,99355.94955965398
+High School,18.0,Rural,Director,21.0,Female,69385.31536733084
+Bachelor,11.0,Urban, Engineer ,25.0,Male,80809.90048425608
+Bachelor,18.0,Urban, Manager ,63.0,Male,99863.55683888131
+High School,12.0,Rural,Engineer,20.0,Male,75534.10496012749
+PhD,4.0,Rural,Director,60.0,Female,133389.7008669186
+Master,24.0,Suburban,ANALYST,27.0,Female,106697.38153604876
+Master,26.0,Urban, Manager ,43.0,Male,134704.20558081384
+High School,13.0,Suburban,MANAGER,41.0,Female,81937.51747116548
+High School,11.0,Urban, Director ,56.0,Female,92553.79958627322
+High School,10.0,Urban,Manager,61.0,Female,70946.2412571137
+Master,24.0,Suburban,manager,41.0,Female,146432.5947696676
+Master,17.0,Rural, Manager ,39.0,Male,125749.18099719848
+High School,11.0,Urban,engineer,56.0,Female,72996.08105064265
+Master,19.0,Suburban,Engineer,-44.0,Male,138840.87068403984
+Bachelor,20.0,Urban,Analyst,60.0,Female,107696.60502582238
+PhD,-6.0,Urban,analyst,27.0,Male,107171.90370452654
+Bachelor,9.0,Rural,Engineer,29.0,Female,90734.18407097086
+Bachelor,7.0,Rural,Analyst,33.0,Male,75094.02001597208
+Master,11.0,Rural,Analyst,47.0,Male,94262.10728746392
+PhD,26.0,Rural,Engineer,,Female,138153.27160194996
+Bachelor,17.0,Suburban,Analyst,25.0,Female,88899.98446381431
+Bachelor,,,Analyst,61.0,Female,86762.53868419738
+Master,7.0,Suburban,Analyst,56.0,Male,114941.64999370553
+Master,14.0,Urban,ANALYST,42.0,Male,109826.89189638496
+Master,8.0,Rural, Analyst ,,Male,82325.93204055996
+Bachelor,-25.0,Rural,Analyst,20.0,Male,83959.91303871668
+PhD,28.0,Rural,MANAGER,58.0,Female,130133.09466454372
+Master,7.0,Suburban,DIRECTOR,62.0,Male,133349.05709466583
+Bachelor,10.0,Suburban,Engineer,20.0,Male,77233.07085255256
+Master,19.0,Suburban,Manager,45.0,Male,123134.4484848378
+PhD,13.0,Suburban,DIRECTOR,29.0,Female,148853.48178994807
+PhD,24.0,Rural,Director,25.0,Female,140288.4957732075
+PhD,,Suburban,MANAGER,29.0,Female,146784.8030923291
+Bachelor,20.0,Urban, Engineer ,51.0,Male,96853.88669726306
+Bachelor,24.0,Urban,ENGINEER,48.0,Male,73768.84005210755
+Bachelor,26.0,, Engineer ,59.0,Male,97169.22057594794
+Master,17.0,Suburban,director,59.0,Male,139312.58560455628
+High School,16.0,Rural,Manager,52.0,Male,72379.80270762598
+Master,9.0,Urban, Director ,31.0,Male,115444.37688706933
+PhD,23.0,Urban, Manager ,34.0,Male,160936.2667979447
+High School,4.0,Suburban,Engineer,63.0,Female,48429.90880797683
+Bachelor,12.0,Urban, Analyst ,29.0,Female,73904.26850029625
+PhD,2.0,Suburban,director,31.0,Female,147361.5804255854
+High School,11.0,Rural,ANALYST,57.0,Female,65006.67532263215
+PhD,20.0,Suburban,DIRECTOR,53.0,Female,190080.8647361314
+Bachelor,,,DIRECTOR,21.0,Female,94477.895221837
+Bachelor,18.0,Rural,Director,50.0,Female,121416.21477806153
+Bachelor,,Rural,Engineer,37.0,Male,123563.62554271567
+PhD,13.0,Rural, Analyst ,63.0,Male,115560.82520020727
+PhD,12.0,Rural,Engineer,42.0,Male,135700.73768031012
+Bachelor,20.0,Rural,analyst,34.0,Male,86043.42072877022
+Master,7.0,Rural,MANAGER,,Female,92413.11807462896
+PhD,22.0,Urban,director,,Male,157724.81894366615
+PhD,26.0,,Engineer,58.0,Female,136131.13662031048
+Bachelor,12.0,Urban,Manager,20.0,Male,106524.18432253851
+Bachelor,1.0,Suburban, Director ,59.0,Female,105334.1261998029
+High School,10.0,Urban,manager,48.0,Female,84819.7818293836
+PhD,25.0,Urban,engineer,,Male,150364.9358430281
+High School,21.0,Suburban,Analyst,47.0,Female,69255.57251988853
+Master,8.0,Rural,Manager,60.0,Female,112052.70947063778
+Bachelor,19.0,Suburban,Engineer,24.0,Male,100470.81384484327
+High School,8.0,Suburban,manager,55.0,Female,63768.02294203736
+PhD,6.0,Suburban,Engineer,34.0,Male,104266.96545001619
+PhD,20.0,Urban, Director ,35.0,Female,163363.46104247618
+Master,25.0,Suburban,Director,24.0,Male,150316.00648493544
+PhD,4.0,Rural, Engineer ,54.0,Male,122902.86206016777
+Master,26.0,Urban,Manager,38.0,Male,141449.3145679414
+Master,8.0,Suburban, Director ,,Male,146002.49520129073
+Master,20.0,Suburban,Analyst,,Female,118835.9675780388
+Master,12.0,Rural,Director,21.0,Male,120931.26646096304
+Bachelor,3.0,Rural,ANALYST,21.0,Male,55826.34648347528
+Master,2.0,Urban,Director,39.0,Male,128882.58180000632
+High School,,Urban,Manager,39.0,Male,99616.73938882723
+PhD,,Urban,engineer,62.0,Female,119702.84881138967
+PhD,17.0,,director,50.0,Male,172574.7024864098
+Master,20.0,Suburban,engineer,21.0,Female,103135.24640438861
+PhD,26.0,Rural, Director ,26.0,Male,162976.91909332198
+High School,-15.0,Urban,Analyst,21.0,Female,76758.22550962839
+Bachelor,8.0,Suburban, Analyst ,32.0,Male,66313.0837033684
+Bachelor,28.0,Urban, Director ,41.0,Female,142448.16836035665
+Master,23.0,Urban,ENGINEER,56.0,Male,98485.26120713701
+High School,18.0,,Analyst,58.0,Male,83749.70679899323
+PhD,5.0,Rural,Manager,52.0,Female,126408.53712062385
+High School,8.0,Suburban,ANALYST,-45.0,Female,41392.2623770307
+Bachelor,5.0,Rural,MANAGER,28.0,Male,104463.84134868198
+PhD,13.0,Suburban,Director,49.0,Female,148834.6194524654
+High School,3.0,Rural, Manager ,42.0,Male,76636.53713507928
+Bachelor,16.0,Rural, Director ,47.0,Male,132886.39683402155
+Master,29.0,Suburban, Engineer ,50.0,Female,106674.68693962687
+PhD,7.0,Suburban,DIRECTOR,44.0,Female,145545.58628890984
+PhD,6.0,Suburban,Manager,24.0,Male,129388.80423969003
+Master,9.0,Urban,ENGINEER,57.0,Male,91463.37440887358
+Master,11.0,Suburban,director,52.0,Male,121010.9173573299
+High School,2.0,Urban,DIRECTOR,37.0,Male,84762.69501036796
+PhD,18.0,Rural,director,57.0,Male,130283.36293814954
+PhD,15.0,,Engineer,-31.0,Male,123580.86428586162
+PhD,28.0,Suburban, Director ,,Male,1005865.799018424
+Master,3.0,Urban,ENGINEER,50.0,Male,103132.40660564047
+Bachelor,3.0,Suburban,ANALYST,61.0,Female,55851.5857313787
+Bachelor,8.0,Urban,engineer,22.0,Male,79565.57477444397
+PhD,27.0,Rural,manager,58.0,Female,151436.6838636725
+Bachelor,29.0,,Director,20.0,Female,123597.4074627851
+Master,8.0,Suburban, Manager ,58.0,Female,98204.0172153498
+Bachelor,14.0,Rural,ENGINEER,59.0,Male,83699.26124540812
+Bachelor,7.0,Urban, Director ,64.0,Female,98449.23141143595
+Bachelor,24.0,Urban,ANALYST,54.0,Male,91369.90773753454
+Bachelor,26.0,Urban, Engineer ,42.0,Male,106894.40545553685
+PhD,13.0,Rural,Analyst,21.0,Female,107921.24643024805
+PhD,,Suburban,DIRECTOR,54.0,Male,145974.3759526789
+Bachelor,7.0,Suburban,MANAGER,33.0,Female,92187.1772121625
+Master,5.0,, Analyst ,27.0,Male,82104.70292787348
+Bachelor,2.0,Rural,analyst,22.0,Female,70867.51483117412
+Bachelor,16.0,Urban,MANAGER,45.0,Male,117037.18832975587
+Master,20.0,Rural,Engineer,21.0,Male,108235.28713776669
+PhD,14.0,Suburban,ANALYST,34.0,Female,118911.86801792777
+High School,7.0,Rural,analyst,27.0,Female,42717.63723485343
+PhD,27.0,Urban,Analyst,63.0,Male,128480.21207759844
+Bachelor,17.0,Suburban,ANALYST,62.0,Female,104661.51071001161
+PhD,16.0,Suburban,DIRECTOR,56.0,Female,159305.9704267457
+Master,5.0,Suburban,MANAGER,22.0,Female,118388.23909796143
+High School,13.0,Suburban,Director,37.0,Female,93763.45975800641
+High School,,Urban,ENGINEER,24.0,Female,56159.862020042594
+High School,15.0,Suburban,ANALYST,34.0,Male,53077.76794061529
+Master,18.0,Suburban,analyst,34.0,Female,99329.99277642687
+High School,24.0,Urban,ANALYST,23.0,Female,102518.12459828069
+Master,12.0,Suburban,Engineer,54.0,Female,117883.20505131436
+High School,15.0,Rural,MANAGER,24.0,Male,67884.44198268047
+High School,,Urban,analyst,31.0,Male,53803.955176552474
+PhD,22.0,Suburban, Manager ,51.0,Male,154506.30423381677
+High School,9.0,Rural,Engineer,27.0,Female,91707.90193804898
+Master,17.0,Suburban,DIRECTOR,62.0,Female,109304.67155891782
+High School,6.0,Rural,Director,,Male,87491.17659536582
+Bachelor,10.0,Rural,Analyst,,Female,61676.3770096207
+PhD,20.0,Suburban,director,56.0,Female,170120.62927870516
+High School,17.0,Rural,Engineer,63.0,Female,66591.87709586951
+High School,5.0,Rural,Manager,24.0,Female,68587.56605097996
+Bachelor,22.0,,MANAGER,40.0,Female,115402.33535072958
+Bachelor,18.0,Urban,Engineer,20.0,Male,84298.08481474822
+Bachelor,12.0,Urban,MANAGER,22.0,Male,88477.20722917073
+High School,20.0,Urban,engineer,-0.0,Female,68366.45979839272
+Master,11.0,Urban,ANALYST,30.0,Female,110326.4874591264
+High School,11.0,Suburban,Engineer,44.0,Female,998034.5934643057
+Bachelor,28.0,Urban,Director,36.0,Male,129494.42202560758
+High School,2.0,Urban,ENGINEER,52.0,Male,66422.54014887025
+PhD,4.0,Suburban,ANALYST,60.0,Female,99828.18379285415
+Master,18.0,Rural,Director,53.0,Male,137809.70831149357
+PhD,2.0,Rural,Analyst,59.0,Male,117466.89007149028
+PhD,5.0,Suburban,Director,37.0,Female,144960.09711095926
+Master,12.0,Urban,Manager,20.0,Male,138945.27191304963
+Bachelor,8.0,Rural,Analyst,58.0,Male,69106.43529776754
+PhD,20.0,Rural,ANALYST,24.0,Male,745854.0819103571
+Bachelor,22.0,Suburban,Director,64.0,Female,103673.92279567283
+PhD,19.0,Urban,director,60.0,Female,147559.61410215215
+Master,-5.0,Urban,director,48.0,Male,118292.14877072112
+High School,23.0,Rural,Manager,21.0,Female,97347.49435765171
+PhD,14.0,Urban,manager,34.0,Male,150127.27852755255
+PhD,6.0,Rural,engineer,43.0,Female,113784.53674196026
+Bachelor,5.0,Suburban,director,26.0,Female,97077.10095087362
+PhD,17.0,Rural,DIRECTOR,21.0,Female,143893.633678443
+PhD,,Urban,engineer,63.0,Female,143108.104990211
+Bachelor,,Rural, Engineer ,53.0,Female,65046.68301171769
+Bachelor,17.0,,ENGINEER,51.0,Female,93023.44059187382
+PhD,13.0,Rural,Manager,52.0,Female,137297.078791956
+High School,22.0,Rural,Engineer,,Male,64642.63242898132
+PhD,1.0,, Engineer ,57.0,Male,99170.83881085743
+PhD,,Suburban, Analyst ,51.0,Male,104124.37121587922
+Bachelor,11.0,Urban,MANAGER,23.0,Male,94155.56613271801
+Bachelor,23.0,Urban,DIRECTOR,34.0,Female,128239.52535282935
+Master,4.0,Suburban, Manager ,-23.0,Female,90032.50006892413
+High School,28.0,Suburban, Analyst ,27.0,Female,78634.0140292927
+PhD,25.0,Suburban,Engineer,37.0,Female,149721.87247167836
+Master,16.0,Urban,ENGINEER,,Female,135974.44770030244
+Master,25.0,, Director ,64.0,Male,153790.40753292723
+Bachelor,1.0,,Engineer,45.0,Male,103235.62742718986
+High School,5.0,Suburban,Director,,Male,90447.64555174806
+PhD,28.0,Suburban,manager,54.0,Male,139974.41006488
+PhD,19.0,Suburban, Analyst ,62.0,Male,110150.69834623615
+Bachelor,2.0,Suburban,director,-32.0,Female,96682.37105544878
+High School,8.0,Urban,DIRECTOR,57.0,Female,83644.17784541425
+Bachelor,,Urban,ENGINEER,22.0,Female,104559.60289046829
+PhD,2.0,Suburban,Engineer,20.0,Male,106552.6854233421
+PhD,23.0,Suburban, Analyst ,49.0,Female,141364.9671388081
+PhD,15.0,Rural,MANAGER,39.0,Male,151010.67473836368
+Bachelor,20.0,Urban,engineer,53.0,Male,97554.20611178537
+Bachelor,25.0,Urban,Analyst,48.0,Male,85858.45812234774
+Master,3.0,Urban,Director,,Male,134120.5926324825
+Bachelor,14.0,Rural,Analyst,21.0,Male,72941.69579480523
+High School,20.0,Urban,ENGINEER,27.0,Female,78201.74499622939
+Master,21.0,,Analyst,43.0,Female,121472.10200155675
+PhD,6.0,Suburban,ANALYST,62.0,Female,104655.34060767805
+Master,5.0,Urban,ANALYST,42.0,Male,103571.53297597035
+Bachelor,,Urban,director,26.0,Male,131181.95205053355
+Master,4.0,,Analyst,51.0,Female,84767.1078894677
+PhD,12.0,Rural,manager,38.0,Female,137774.15516041586
+PhD,26.0,,ENGINEER,49.0,Female,147440.59852670616
+Bachelor,10.0,Rural,director,56.0,Male,64975.76759825378
+Master,28.0,Suburban,Manager,60.0,Male,134445.98511771508
+Master,4.0,Suburban,Manager,41.0,Female,114139.52923548539
+PhD,22.0,Suburban,Analyst,,Male,125030.77610146493
+High School,7.0,Urban,engineer,36.0,Male,60126.97576985992
+Bachelor,1.0,Suburban, Engineer ,-29.0,Female,49777.020210767485
+Bachelor,17.0,Urban,DIRECTOR,63.0,Female,123968.82609908741
+High School,25.0,Urban,director,59.0,Male,112372.3130300635
+Bachelor,16.0,Suburban,director,25.0,Female,131498.93227719908
+PhD,14.0,Suburban,analyst,37.0,Female,127271.68606237743
+PhD,7.0,Urban, Engineer ,20.0,Male,117827.96308166021
+High School,23.0,Rural,ANALYST,61.0,Male,72964.68691124026
+PhD,18.0,Urban,Director,50.0,Female,151205.62017994103
+Bachelor,,Suburban,ENGINEER,63.0,Female,91077.87327549171
+PhD,21.0,Rural, Director ,,Male,154181.17728165622
+PhD,13.0,Rural,Director,50.0,Male,138755.1040524407
+High School,28.0,Urban, Engineer ,44.0,Female,105340.87800306297
+Bachelor,18.0,Rural,Manager,35.0,Male,106903.15349163955
+High School,6.0,Suburban,Analyst,59.0,Male,57458.91446298197
+Master,21.0,Suburban,Engineer,59.0,Male,146209.32888114383
+High School,3.0,,Engineer,25.0,Female,48267.33594972067
+Bachelor,13.0,Rural,Engineer,,Male,96831.75043436623
+Bachelor,9.0,, Manager ,43.0,Male,74856.42883729958
+Master,20.0,Urban,Analyst,20.0,Male,98579.53835114843
+High School,16.0,Suburban,Manager,37.0,Female,58567.42328084372
+Master,14.0,Urban,engineer,34.0,Male,126078.67048541803
+Master,13.0,Urban,engineer,62.0,Female,94667.0215322357
+Bachelor,24.0,Rural,Manager,51.0,Male,121814.50670721881
+PhD,26.0,Rural,MANAGER,42.0,Male,155313.55831501188
+High School,1.0,Suburban, Analyst ,31.0,Male,58259.740243007334
+Bachelor,19.0,Urban,DIRECTOR,49.0,Female,116396.00930819081
+Bachelor,27.0,Suburban,ENGINEER,49.0,Female,98044.31280425812
+Master,23.0,Rural,analyst,35.0,Female,107914.16474122254
+Bachelor,26.0,Rural,Analyst,43.0,Female,1003198.4290995129
+High School,16.0,Suburban,Analyst,55.0,Male,58657.18278625542
+Master,3.0,Rural, Manager ,54.0,Female,100853.86391111116
+High School,23.0,Suburban,director,40.0,Male,115953.01068177263
+Bachelor,20.0,Suburban, Analyst ,53.0,Female,105037.49393771228
+Master,,Urban,Director,44.0,Male,145535.7113868099
+PhD,7.0,Rural,Manager,30.0,Male,149641.91867629567
+High School,,Suburban,MANAGER,60.0,Male,67006.92800728316
+Bachelor,-6.0,Suburban,ANALYST,30.0,Female,76986.13971822076
+High School,18.0,Suburban,Director,61.0,Male,102226.43172530453
+PhD,8.0,Urban,Director,26.0,Female,135472.3100021383
+Bachelor,,Suburban,Analyst,35.0,Male,102487.07814248733
+PhD,,Rural,analyst,24.0,Male,101251.24122921481
+High School,17.0,Rural,manager,53.0,Male,95883.22259255733
+Master,-15.0,Suburban, Manager ,31.0,Female,127360.94011661735
+High School,22.0,Suburban, Engineer ,58.0,Male,65811.36613039226
+Bachelor,1.0,Rural, Director ,43.0,Female,73231.95801221902
+Master,11.0,Rural,analyst,54.0,Male,101885.72572099991
+High School,9.0,Urban,analyst,,Male,65167.88036249627
+Master,27.0,Suburban,Analyst,25.0,Male,127422.09865081278
+High School,14.0,Urban,Analyst,62.0,Female,70531.43762607398
+High School,15.0,Rural,Director,49.0,Male,89559.19963143762
+Bachelor,8.0,Rural, Director ,60.0,Male,94819.19733778895
+High School,27.0,,director,31.0,Male,95512.32111461926
+PhD,28.0,Suburban, Director ,34.0,Female,168488.60865427912
+High School,24.0,,ENGINEER,-51.0,Female,76075.42178285077
+Bachelor,28.0,Rural,engineer,47.0,Female,86352.3403429453
+High School,1.0,Suburban,Manager,59.0,Male,61280.30472081836
+High School,,Urban,analyst,61.0,Female,73922.38060309975
+High School,,Suburban,ANALYST,,Male,50989.81906388819
+Master,-4.0,,DIRECTOR,35.0,Female,104375.30734424607
+Bachelor,7.0,Rural,Director,44.0,Male,131704.51901949788
+High School,2.0,Suburban,Manager,41.0,Female,73697.44797602107
+High School,6.0,,manager,61.0,Female,67188.18202413016
+High School,2.0,Rural,Analyst,48.0,Male,66740.9869170689
+Master,2.0,Rural,Analyst,44.0,Male,89286.97410062903
+Master,17.0,Rural,Engineer,44.0,Male,94400.24954362102
+PhD,19.0,Urban,Manager,61.0,Female,158316.23089665783
+PhD,15.0,Suburban,MANAGER,56.0,Female,146736.0133025521
+Master,1.0,Urban,DIRECTOR,-27.0,Female,122987.00358534347
+High School,4.0,Suburban,Director,56.0,Male,80577.6345207111
+Bachelor,2.0,,DIRECTOR,41.0,Male,91863.19292210019
+Master,27.0,Urban,Engineer,27.0,Male,130952.96630026266
+Bachelor,22.0,Urban,analyst,27.0,Female,96951.54678325701
+PhD,2.0,Suburban,Analyst,42.0,Male,113527.4300331587
+High School,21.0,Suburban,MANAGER,54.0,Female,111153.49107128449
+High School,4.0,Urban,ENGINEER,57.0,Male,70963.10804131335
+High School,5.0,Rural, Engineer ,59.0,Female,63552.975034607145
+PhD,18.0,Rural,director,24.0,Male,166574.81560565226
+Master,11.0,Suburban,Director,30.0,Female,114451.61913615426
+High School,24.0,Rural,Director,26.0,Male,112744.17215464749
+Master,5.0,Urban,manager,23.0,Female,113979.86698814966
+Bachelor,29.0,Rural,ENGINEER,54.0,Male,100593.45784474214
+PhD,7.0,Suburban,Director,30.0,Male,143322.053115279
+Master,-0.0,Rural,ANALYST,21.0,Female,107850.73727502103
+High School,8.0,,ANALYST,25.0,Female,73500.16278236569
+Master,,Rural,director,58.0,Female,110211.93683328346
+Bachelor,7.0,Rural,director,64.0,Female,116125.71960637945
+High School,20.0,Urban,Engineer,28.0,Female,101788.98305498967
+Bachelor,26.0,Suburban,ENGINEER,33.0,Male,97735.71336850623
+Bachelor,4.0,Rural, Analyst ,36.0,Male,46394.53662838467
+High School,,Urban,engineer,30.0,Female,66537.93841459375
+Bachelor,29.0,Suburban,Manager,52.0,Male,101221.00027783854
+PhD,5.0,Suburban,Manager,23.0,Female,133147.6083437285
+Master,,Rural,MANAGER,59.0,Male,108956.24108519011
+Master,13.0,,Analyst,20.0,Female,105786.05678212298
+High School,17.0,Urban,DIRECTOR,63.0,Female,98421.67756834773
+High School,29.0,Rural,Director,45.0,Male,87801.88732415454
+Master,21.0,Urban,Director,23.0,Male,116031.74214073626
+High School,27.0,Suburban, Engineer ,50.0,Female,85112.59164352721
+PhD,5.0,Urban,Director,35.0,Female,153208.00821180912
+Bachelor,25.0,Suburban,Director,31.0,Male,117367.05456504981
+Bachelor,18.0,Rural, Analyst ,35.0,Male,62602.621120638214
+High School,27.0,Suburban,Engineer,21.0,Female,69496.10775398163
+High School,12.0,Suburban, Director ,,Male,101817.30650672344
+Bachelor,2.0,Urban,ENGINEER,63.0,Female,89113.08630683417
+High School,2.0,Urban,Engineer,38.0,Male,59754.53232749867
+High School,26.0,Urban, Manager ,58.0,Male,99958.55589329834
+High School,28.0,Suburban,Engineer,49.0,Male,84137.49964276729
+Master,24.0,Rural,Analyst,24.0,Female,103193.76529547994
+PhD,,Rural, Director ,57.0,Male,156591.91510282247
+Master,24.0,Suburban,ENGINEER,36.0,Female,133357.72999349883
+PhD,25.0,Suburban, Director ,-24.0,Female,143957.67833948592
+PhD,12.0,Rural,Manager,52.0,Female,147322.35851054502
+PhD,28.0,Suburban, Manager ,45.0,Male,150505.9843347849
+PhD,17.0,Suburban, Manager ,52.0,Female,149900.09367734694
+High School,15.0,Rural,analyst,38.0,Female,51095.079177435866
+Bachelor,17.0,Rural,ENGINEER,44.0,Female,103186.95621111884
+High School,9.0,Urban, Analyst ,49.0,Male,47131.40059926073
+PhD,14.0,Rural,manager,21.0,Male,147455.40482317138
+Master,14.0,Urban,manager,21.0,Male,132070.74427239713
+PhD,5.0,Suburban, Analyst ,26.0,Female,114921.09248583282
+High School,,Suburban,Director,61.0,Male,83482.31770302006
+High School,15.0,Urban, Manager ,60.0,Female,107022.15728501957
+High School,27.0,Urban, Engineer ,36.0,Male,76602.32473015493
+High School,20.0,Suburban,Director,38.0,Female,104526.9003783116
